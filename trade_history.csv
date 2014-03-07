@@ -1,0 +1,501 @@
+Symbol,Name,Date,Qty
+UNH,UnitedHealth Group Incorporated,2013-08-25,286
+MRK,Merck & Co. Inc.,2013-06-10,241
+MRK,Merck & Co. Inc.,2013-08-10,949
+MCD,McDonald's Corp.,2013-08-15,203
+DIS,The Walt Disney Company,2013-08-13,823
+WMT,Wal-Mart Stores Inc.,2013-06-25,131
+DD,E. I. du Pont de Nemours and Company,2013-07-27,425
+GS,The Goldman Sachs Group,2013-01-12,699
+HD,The Home Depot,2013-02-24,634
+UTX,United Technologies Corp.,2013-11-08,209
+DD,E. I. du Pont de Nemours and Company,2013-05-21,204
+NKE,Nike,2013-12-21,84
+CSCO,Cisco Systems,2013-06-04,845
+PG,The Procter & Gamble Company,2013-01-06,605
+XOM,Exxon Mobil Corporation,2013-02-16,964
+BA,The Boeing Company,2013-01-27,383
+PG,The Procter & Gamble Company,2013-07-25,475
+UTX,United Technologies Corp.,2013-12-17,349
+IBM,International Business Machines Corporation,2013-12-29,252
+DIS,The Walt Disney Company,2013-12-09,823
+KO,The Coca-Cola Company,2013-08-09,53
+XOM,Exxon Mobil Corporation,2013-08-04,11
+IBM,International Business Machines Corporation,2013-07-13,315
+XOM,Exxon Mobil Corporation,2013-12-17,425
+MSFT,Microsoft Corporation,2013-07-27,749
+JNJ,Johnson & Johnson,2013-09-13,78
+DD,E. I. du Pont de Nemours and Company,2013-04-12,602
+PG,The Procter & Gamble Company,2013-12-05,528
+VZ,Verizon Communications Inc.,2013-11-07,54
+UTX,United Technologies Corp.,2013-10-17,214
+CSCO,Cisco Systems,2013-08-28,447
+HD,The Home Depot,2013-08-23,520
+MMM,3M Company,2013-01-28,107
+IBM,International Business Machines Corporation,2013-10-07,441
+TRV,The Travelers Companies,2013-09-30,868
+TRV,The Travelers Companies,2013-07-25,461
+MSFT,Microsoft Corporation,2013-01-25,269
+AXP,American Express Company,2013-08-15,82
+UTX,United Technologies Corp.,2013-08-12,626
+HD,The Home Depot,2013-05-10,901
+MRK,Merck & Co. Inc.,2013-09-03,744
+MRK,Merck & Co. Inc.,2013-12-20,262
+CSCO,Cisco Systems,2013-09-10,166
+AXP,American Express Company,2013-07-17,287
+CVX,Chevron Corporation,2013-06-28,161
+HD,The Home Depot,2013-10-31,331
+INTC,Intel Corporation,2013-06-26,571
+V,Visa Inc.,2013-08-19,995
+VZ,Verizon Communications Inc.,2013-07-21,60
+KO,The Coca-Cola Company,2013-10-19,902
+VZ,Verizon Communications Inc.,2013-09-08,688
+CAT,Caterpillar Inc.,2013-12-31,823
+VZ,Verizon Communications Inc.,2013-01-21,586
+UNH,UnitedHealth Group Incorporated,2013-07-31,701
+INTC,Intel Corporation,2013-04-16,779
+KO,The Coca-Cola Company,2013-04-05,673
+MCD,McDonald's Corp.,2013-04-19,570
+V,Visa Inc.,2013-08-29,207
+MSFT,Microsoft Corporation,2013-09-10,602
+JPM,JPMorgan Chase & Co.,2013-05-02,734
+AXP,American Express Company,2013-06-19,422
+MMM,3M Company,2013-10-27,445
+DD,E. I. du Pont de Nemours and Company,2013-06-09,547
+INTC,Intel Corporation,2013-11-28,941
+TRV,The Travelers Companies,2013-07-28,438
+INTC,Intel Corporation,2013-09-18,487
+NKE,Nike,2013-09-03,80
+DD,E. I. du Pont de Nemours and Company,2013-08-17,234
+INTC,Intel Corporation,2013-07-21,563
+GE,General Electric Company,2013-07-01,453
+INTC,Intel Corporation,2013-08-29,501
+CVX,Chevron Corporation,2013-04-03,519
+JNJ,Johnson & Johnson,2013-05-28,973
+CSCO,Cisco Systems,2013-07-30,220
+UNH,UnitedHealth Group Incorporated,2013-08-12,952
+XOM,Exxon Mobil Corporation,2013-07-21,676
+CSCO,Cisco Systems,2013-06-12,167
+V,Visa Inc.,2013-11-10,354
+WMT,Wal-Mart Stores Inc.,2013-09-03,402
+MMM,3M Company,2013-03-28,583
+PFE,Pfizer Inc.,2013-10-04,385
+GE,General Electric Company,2013-01-06,289
+XOM,Exxon Mobil Corporation,2013-09-19,211
+GE,General Electric Company,2013-11-26,842
+JNJ,Johnson & Johnson,2013-05-03,886
+TRV,The Travelers Companies,2013-09-29,260
+PG,The Procter & Gamble Company,2013-06-04,67
+DIS,The Walt Disney Company,2013-07-14,16
+GE,General Electric Company,2013-08-11,802
+CAT,Caterpillar Inc.,2013-12-21,506
+DD,E. I. du Pont de Nemours and Company,2013-11-12,524
+PG,The Procter & Gamble Company,2013-07-29,660
+NKE,Nike,2013-12-26,945
+MCD,McDonald's Corp.,2013-06-18,37
+DD,E. I. du Pont de Nemours and Company,2013-04-11,206
+V,Visa Inc.,2013-02-17,620
+CAT,Caterpillar Inc.,2013-09-27,621
+MSFT,Microsoft Corporation,2013-04-03,846
+PFE,Pfizer Inc.,2013-02-19,903
+MMM,3M Company,2013-01-13,197
+INTC,Intel Corporation,2013-11-14,245
+BA,The Boeing Company,2013-02-09,754
+DIS,The Walt Disney Company,2013-06-09,942
+HD,The Home Depot,2013-11-20,212
+AXP,American Express Company,2013-11-21,810
+TRV,The Travelers Companies,2013-08-07,121
+XOM,Exxon Mobil Corporation,2013-05-21,230
+CAT,Caterpillar Inc.,2013-12-31,551
+DIS,The Walt Disney Company,2013-04-30,729
+AXP,American Express Company,2013-04-05,182
+V,Visa Inc.,2013-11-21,199
+GS,The Goldman Sachs Group,2013-07-14,19
+UTX,United Technologies Corp.,2013-09-16,711
+CSCO,Cisco Systems,2013-07-07,714
+WMT,Wal-Mart Stores Inc.,2013-01-24,794
+UNH,UnitedHealth Group Incorporated,2013-04-07,202
+UTX,United Technologies Corp.,2013-05-26,45
+PFE,Pfizer Inc.,2013-12-17,437
+MMM,3M Company,2013-11-04,460
+NKE,Nike,2013-01-31,518
+MRK,Merck & Co. Inc.,2013-03-01,215
+UNH,UnitedHealth Group Incorporated,2013-11-11,434
+UTX,United Technologies Corp.,2013-04-24,527
+DIS,The Walt Disney Company,2013-08-31,790
+CVX,Chevron Corporation,2013-07-10,797
+WMT,Wal-Mart Stores Inc.,2013-12-15,710
+MMM,3M Company,2013-12-02,659
+T,AT&T,2013-08-20,280
+NKE,Nike,2013-09-01,317
+PFE,Pfizer Inc.,2013-05-01,99
+IBM,International Business Machines Corporation,2013-06-17,686
+AXP,American Express Company,2013-03-25,465
+PG,The Procter & Gamble Company,2013-05-11,357
+HD,The Home Depot,2013-08-01,415
+BA,The Boeing Company,2013-09-20,136
+V,Visa Inc.,2013-12-24,526
+MCD,McDonald's Corp.,2013-02-09,690
+UTX,United Technologies Corp.,2013-03-28,426
+INTC,Intel Corporation,2013-09-27,579
+NKE,Nike,2013-03-08,526
+CSCO,Cisco Systems,2013-05-30,402
+MSFT,Microsoft Corporation,2013-03-07,358
+IBM,International Business Machines Corporation,2013-12-18,641
+GS,The Goldman Sachs Group,2013-10-09,344
+TRV,The Travelers Companies,2013-04-25,329
+VZ,Verizon Communications Inc.,2013-09-30,796
+NKE,Nike,2013-01-29,148
+PFE,Pfizer Inc.,2013-04-18,144
+VZ,Verizon Communications Inc.,2013-06-04,592
+MSFT,Microsoft Corporation,2013-04-05,548
+NKE,Nike,2013-08-14,974
+XOM,Exxon Mobil Corporation,2013-09-09,807
+JNJ,Johnson & Johnson,2013-02-27,502
+WMT,Wal-Mart Stores Inc.,2013-02-20,429
+UNH,UnitedHealth Group Incorporated,2013-02-21,266
+DIS,The Walt Disney Company,2013-12-13,632
+IBM,International Business Machines Corporation,2013-02-17,771
+CSCO,Cisco Systems,2013-01-24,689
+PG,The Procter & Gamble Company,2013-11-10,553
+MRK,Merck & Co. Inc.,2013-11-28,220
+TRV,The Travelers Companies,2013-08-11,841
+BA,The Boeing Company,2013-12-24,770
+DD,E. I. du Pont de Nemours and Company,2013-11-28,792
+KO,The Coca-Cola Company,2013-09-24,361
+BA,The Boeing Company,2013-02-23,455
+DD,E. I. du Pont de Nemours and Company,2013-01-17,880
+CVX,Chevron Corporation,2013-07-19,891
+DD,E. I. du Pont de Nemours and Company,2013-02-25,137
+MSFT,Microsoft Corporation,2013-03-21,41
+IBM,International Business Machines Corporation,2013-10-11,395
+PFE,Pfizer Inc.,2013-08-23,137
+CAT,Caterpillar Inc.,2013-10-20,941
+CVX,Chevron Corporation,2013-09-09,763
+GE,General Electric Company,2013-08-15,175
+CSCO,Cisco Systems,2013-03-14,904
+PFE,Pfizer Inc.,2013-06-30,124
+BA,The Boeing Company,2013-05-02,91
+DIS,The Walt Disney Company,2013-01-11,228
+UTX,United Technologies Corp.,2013-07-17,989
+PG,The Procter & Gamble Company,2013-12-09,915
+AXP,American Express Company,2013-05-14,852
+GS,The Goldman Sachs Group,2013-03-23,885
+CSCO,Cisco Systems,2013-08-14,60
+PFE,Pfizer Inc.,2013-10-14,453
+XOM,Exxon Mobil Corporation,2013-06-05,199
+PFE,Pfizer Inc.,2013-09-17,218
+BA,The Boeing Company,2013-08-09,488
+CAT,Caterpillar Inc.,2013-06-13,371
+MSFT,Microsoft Corporation,2013-03-11,936
+GS,The Goldman Sachs Group,2013-12-13,934
+IBM,International Business Machines Corporation,2013-02-04,837
+CVX,Chevron Corporation,2013-03-04,483
+PFE,Pfizer Inc.,2013-02-24,640
+TRV,The Travelers Companies,2013-06-06,706
+MSFT,Microsoft Corporation,2013-04-19,251
+MCD,McDonald's Corp.,2013-05-11,217
+VZ,Verizon Communications Inc.,2013-07-18,546
+CSCO,Cisco Systems,2013-03-05,858
+WMT,Wal-Mart Stores Inc.,2013-10-12,416
+KO,The Coca-Cola Company,2013-02-07,652
+CAT,Caterpillar Inc.,2013-01-19,981
+HD,The Home Depot,2013-11-06,131
+NKE,Nike,2013-05-02,665
+BA,The Boeing Company,2013-07-01,498
+PFE,Pfizer Inc.,2013-03-14,53
+CAT,Caterpillar Inc.,2013-07-10,18
+VZ,Verizon Communications Inc.,2013-02-16,374
+MRK,Merck & Co. Inc.,2013-10-12,264
+VZ,Verizon Communications Inc.,2013-09-27,638
+V,Visa Inc.,2013-02-23,282
+DIS,The Walt Disney Company,2013-10-08,521
+NKE,Nike,2013-06-17,670
+PG,The Procter & Gamble Company,2013-05-30,467
+CVX,Chevron Corporation,2013-05-07,746
+HD,The Home Depot,2013-08-20,303
+MSFT,Microsoft Corporation,2013-12-23,155
+AXP,American Express Company,2013-11-19,109
+TRV,The Travelers Companies,2013-02-21,121
+XOM,Exxon Mobil Corporation,2013-07-28,922
+KO,The Coca-Cola Company,2013-05-11,746
+GS,The Goldman Sachs Group,2013-01-28,309
+NKE,Nike,2013-09-05,763
+NKE,Nike,2013-03-23,46
+HD,The Home Depot,2013-10-05,893
+MSFT,Microsoft Corporation,2013-10-03,408
+CAT,Caterpillar Inc.,2013-10-24,719
+MRK,Merck & Co. Inc.,2013-12-20,266
+CVX,Chevron Corporation,2013-09-01,169
+GS,The Goldman Sachs Group,2013-02-18,728
+GE,General Electric Company,2013-09-21,130
+WMT,Wal-Mart Stores Inc.,2013-04-22,531
+NKE,Nike,2013-04-13,811
+UTX,United Technologies Corp.,2013-07-16,187
+PG,The Procter & Gamble Company,2013-07-11,844
+KO,The Coca-Cola Company,2013-01-21,63
+UTX,United Technologies Corp.,2013-10-07,382
+T,AT&T,2013-06-26,294
+JNJ,Johnson & Johnson,2013-10-22,690
+JPM,JPMorgan Chase & Co.,2013-11-12,441
+NKE,Nike,2013-02-12,623
+UTX,United Technologies Corp.,2013-06-25,909
+PG,The Procter & Gamble Company,2013-09-24,598
+KO,The Coca-Cola Company,2013-10-10,869
+GS,The Goldman Sachs Group,2013-07-21,712
+KO,The Coca-Cola Company,2013-01-09,271
+JNJ,Johnson & Johnson,2013-03-29,907
+TRV,The Travelers Companies,2013-02-15,84
+T,AT&T,2013-09-06,507
+CVX,Chevron Corporation,2013-11-05,254
+DD,E. I. du Pont de Nemours and Company,2013-11-06,468
+TRV,The Travelers Companies,2013-08-02,155
+MMM,3M Company,2013-04-04,874
+XOM,Exxon Mobil Corporation,2013-07-15,763
+BA,The Boeing Company,2013-04-25,465
+NKE,Nike,2013-10-10,332
+UNH,UnitedHealth Group Incorporated,2013-07-01,188
+PG,The Procter & Gamble Company,2013-05-11,649
+XOM,Exxon Mobil Corporation,2013-05-15,425
+DIS,The Walt Disney Company,2013-05-29,262
+CSCO,Cisco Systems,2013-12-17,443
+JPM,JPMorgan Chase & Co.,2013-02-18,729
+MCD,McDonald's Corp.,2013-07-17,997
+CSCO,Cisco Systems,2013-02-23,708
+PFE,Pfizer Inc.,2013-11-15,250
+GS,The Goldman Sachs Group,2013-02-04,723
+MCD,McDonald's Corp.,2013-05-26,459
+V,Visa Inc.,2013-03-31,951
+BA,The Boeing Company,2013-02-23,564
+AXP,American Express Company,2013-07-29,764
+VZ,Verizon Communications Inc.,2013-06-29,778
+XOM,Exxon Mobil Corporation,2013-10-20,649
+PG,The Procter & Gamble Company,2013-10-06,817
+MRK,Merck & Co. Inc.,2013-03-05,333
+GE,General Electric Company,2013-07-19,927
+INTC,Intel Corporation,2013-04-19,60
+UTX,United Technologies Corp.,2013-11-04,960
+T,AT&T,2013-07-04,24
+MRK,Merck & Co. Inc.,2013-06-15,81
+WMT,Wal-Mart Stores Inc.,2013-11-15,144
+UNH,UnitedHealth Group Incorporated,2013-03-16,621
+BA,The Boeing Company,2013-09-20,262
+IBM,International Business Machines Corporation,2013-09-11,714
+IBM,International Business Machines Corporation,2013-03-10,798
+NKE,Nike,2013-02-19,417
+CSCO,Cisco Systems,2013-02-11,837
+TRV,The Travelers Companies,2013-05-04,572
+PG,The Procter & Gamble Company,2013-08-29,615
+GE,General Electric Company,2013-12-03,514
+KO,The Coca-Cola Company,2013-09-24,965
+INTC,Intel Corporation,2013-01-03,816
+TRV,The Travelers Companies,2013-04-23,102
+PFE,Pfizer Inc.,2013-01-13,347
+VZ,Verizon Communications Inc.,2013-02-15,766
+JNJ,Johnson & Johnson,2013-10-31,389
+INTC,Intel Corporation,2013-08-27,849
+MSFT,Microsoft Corporation,2013-11-02,266
+MRK,Merck & Co. Inc.,2013-11-17,555
+AXP,American Express Company,2013-02-22,821
+UTX,United Technologies Corp.,2013-04-18,56
+XOM,Exxon Mobil Corporation,2013-08-13,361
+KO,The Coca-Cola Company,2013-02-26,362
+DD,E. I. du Pont de Nemours and Company,2013-12-15,377
+VZ,Verizon Communications Inc.,2013-12-30,467
+DD,E. I. du Pont de Nemours and Company,2013-07-03,588
+UTX,United Technologies Corp.,2013-04-15,194
+JNJ,Johnson & Johnson,2013-03-22,215
+GE,General Electric Company,2013-09-23,918
+CSCO,Cisco Systems,2013-07-20,76
+DIS,The Walt Disney Company,2013-12-23,878
+AXP,American Express Company,2013-10-30,651
+DD,E. I. du Pont de Nemours and Company,2013-05-28,982
+UNH,UnitedHealth Group Incorporated,2013-08-11,701
+T,AT&T,2013-07-22,721
+VZ,Verizon Communications Inc.,2013-01-20,440
+IBM,International Business Machines Corporation,2013-07-23,953
+JPM,JPMorgan Chase & Co.,2013-01-31,470
+AXP,American Express Company,2013-04-11,548
+NKE,Nike,2013-08-15,238
+CVX,Chevron Corporation,2013-02-04,514
+UTX,United Technologies Corp.,2013-09-15,699
+PG,The Procter & Gamble Company,2013-01-06,937
+DD,E. I. du Pont de Nemours and Company,2013-09-03,592
+CAT,Caterpillar Inc.,2013-08-30,462
+UNH,UnitedHealth Group Incorporated,2013-09-30,200
+T,AT&T,2013-07-08,357
+IBM,International Business Machines Corporation,2013-08-14,743
+GS,The Goldman Sachs Group,2013-02-12,247
+HD,The Home Depot,2013-07-08,804
+DIS,The Walt Disney Company,2013-05-26,480
+CAT,Caterpillar Inc.,2013-05-22,122
+XOM,Exxon Mobil Corporation,2013-07-01,465
+KO,The Coca-Cola Company,2013-05-24,340
+PFE,Pfizer Inc.,2013-12-19,146
+GE,General Electric Company,2013-07-01,354
+MMM,3M Company,2013-05-24,581
+UNH,UnitedHealth Group Incorporated,2013-03-12,905
+UTX,United Technologies Corp.,2013-06-29,794
+GS,The Goldman Sachs Group,2013-11-21,481
+AXP,American Express Company,2013-10-15,144
+GE,General Electric Company,2013-08-06,510
+XOM,Exxon Mobil Corporation,2013-06-24,889
+IBM,International Business Machines Corporation,2013-11-26,882
+TRV,The Travelers Companies,2013-12-04,884
+MRK,Merck & Co. Inc.,2013-05-25,479
+JNJ,Johnson & Johnson,2013-08-25,778
+MMM,3M Company,2013-03-04,79
+VZ,Verizon Communications Inc.,2013-11-27,772
+WMT,Wal-Mart Stores Inc.,2013-05-03,716
+VZ,Verizon Communications Inc.,2013-06-15,674
+TRV,The Travelers Companies,2013-04-26,311
+GE,General Electric Company,2013-04-12,238
+IBM,International Business Machines Corporation,2013-02-05,809
+DD,E. I. du Pont de Nemours and Company,2013-07-29,253
+CVX,Chevron Corporation,2013-08-20,951
+T,AT&T,2013-07-23,675
+PG,The Procter & Gamble Company,2013-06-16,252
+CAT,Caterpillar Inc.,2013-06-11,514
+MCD,McDonald's Corp.,2013-01-24,639
+T,AT&T,2013-06-14,74
+IBM,International Business Machines Corporation,2013-02-14,674
+XOM,Exxon Mobil Corporation,2013-12-06,471
+WMT,Wal-Mart Stores Inc.,2013-04-07,467
+JNJ,Johnson & Johnson,2013-10-17,65
+GS,The Goldman Sachs Group,2013-08-19,210
+JPM,JPMorgan Chase & Co.,2013-10-25,947
+CAT,Caterpillar Inc.,2013-09-05,112
+KO,The Coca-Cola Company,2013-06-09,87
+UNH,UnitedHealth Group Incorporated,2013-06-10,309
+MRK,Merck & Co. Inc.,2013-05-01,128
+V,Visa Inc.,2013-11-06,131
+WMT,Wal-Mart Stores Inc.,2013-07-26,294
+CVX,Chevron Corporation,2013-11-11,384
+UNH,UnitedHealth Group Incorporated,2013-09-09,351
+VZ,Verizon Communications Inc.,2013-05-06,940
+UNH,UnitedHealth Group Incorporated,2013-07-02,723
+CAT,Caterpillar Inc.,2013-09-27,727
+CAT,Caterpillar Inc.,2013-05-09,413
+AXP,American Express Company,2013-01-24,855
+TRV,The Travelers Companies,2013-05-08,289
+VZ,Verizon Communications Inc.,2013-08-30,145
+PG,The Procter & Gamble Company,2013-07-31,360
+VZ,Verizon Communications Inc.,2013-01-03,88
+MSFT,Microsoft Corporation,2013-11-12,124
+JPM,JPMorgan Chase & Co.,2013-04-13,749
+VZ,Verizon Communications Inc.,2013-09-14,524
+NKE,Nike,2013-10-26,571
+UTX,United Technologies Corp.,2013-08-25,777
+CAT,Caterpillar Inc.,2013-07-08,54
+JNJ,Johnson & Johnson,2013-11-01,265
+CVX,Chevron Corporation,2013-05-01,245
+WMT,Wal-Mart Stores Inc.,2013-03-26,623
+V,Visa Inc.,2013-12-15,776
+T,AT&T,2013-02-24,75
+JPM,JPMorgan Chase & Co.,2013-06-21,704
+AXP,American Express Company,2013-05-10,573
+UTX,United Technologies Corp.,2013-09-15,432
+MSFT,Microsoft Corporation,2013-06-18,795
+MRK,Merck & Co. Inc.,2013-11-06,542
+GE,General Electric Company,2013-03-27,162
+DD,E. I. du Pont de Nemours and Company,2013-04-29,397
+MCD,McDonald's Corp.,2013-08-03,528
+XOM,Exxon Mobil Corporation,2013-09-22,580
+MRK,Merck & Co. Inc.,2013-03-29,803
+WMT,Wal-Mart Stores Inc.,2013-08-29,395
+DIS,The Walt Disney Company,2013-11-12,316
+DD,E. I. du Pont de Nemours and Company,2013-05-30,515
+GE,General Electric Company,2013-02-25,113
+PG,The Procter & Gamble Company,2013-04-21,388
+HD,The Home Depot,2013-06-11,434
+GS,The Goldman Sachs Group,2013-01-29,30
+CAT,Caterpillar Inc.,2013-01-27,825
+UTX,United Technologies Corp.,2013-02-17,727
+CVX,Chevron Corporation,2013-11-27,787
+CSCO,Cisco Systems,2013-02-06,720
+GE,General Electric Company,2013-06-18,835
+NKE,Nike,2013-03-17,807
+JNJ,Johnson & Johnson,2013-09-25,370
+WMT,Wal-Mart Stores Inc.,2013-07-31,894
+MSFT,Microsoft Corporation,2013-11-25,861
+GE,General Electric Company,2013-03-05,563
+TRV,The Travelers Companies,2013-04-03,872
+PFE,Pfizer Inc.,2013-10-23,239
+WMT,Wal-Mart Stores Inc.,2013-11-19,924
+DD,E. I. du Pont de Nemours and Company,2013-05-10,437
+DD,E. I. du Pont de Nemours and Company,2013-02-11,55
+GS,The Goldman Sachs Group,2013-10-21,142
+DIS,The Walt Disney Company,2013-11-19,59
+JNJ,Johnson & Johnson,2013-04-16,881
+MRK,Merck & Co. Inc.,2013-10-13,580
+MSFT,Microsoft Corporation,2013-11-18,64
+UTX,United Technologies Corp.,2013-07-27,193
+HD,The Home Depot,2013-09-27,397
+DIS,The Walt Disney Company,2013-07-18,322
+UNH,UnitedHealth Group Incorporated,2013-05-18,49
+DD,E. I. du Pont de Nemours and Company,2013-09-18,150
+WMT,Wal-Mart Stores Inc.,2013-10-13,302
+MMM,3M Company,2013-01-30,31
+DIS,The Walt Disney Company,2013-07-24,681
+INTC,Intel Corporation,2013-05-28,955
+PFE,Pfizer Inc.,2013-12-06,859
+JPM,JPMorgan Chase & Co.,2013-01-26,228
+INTC,Intel Corporation,2013-06-19,944
+PG,The Procter & Gamble Company,2013-03-02,540
+CAT,Caterpillar Inc.,2013-04-07,731
+MSFT,Microsoft Corporation,2013-02-24,870
+CAT,Caterpillar Inc.,2013-03-24,383
+V,Visa Inc.,2013-02-17,209
+MCD,McDonald's Corp.,2013-09-26,431
+AXP,American Express Company,2013-08-11,897
+CSCO,Cisco Systems,2013-12-24,409
+MCD,McDonald's Corp.,2013-07-20,661
+BA,The Boeing Company,2013-05-27,245
+CVX,Chevron Corporation,2013-06-03,69
+AXP,American Express Company,2013-10-31,492
+GS,The Goldman Sachs Group,2013-06-03,497
+BA,The Boeing Company,2013-12-28,297
+VZ,Verizon Communications Inc.,2013-09-20,436
+MMM,3M Company,2013-09-11,226
+NKE,Nike,2013-10-15,31
+UNH,UnitedHealth Group Incorporated,2013-02-06,196
+UNH,UnitedHealth Group Incorporated,2013-10-01,83
+INTC,Intel Corporation,2013-05-29,104
+TRV,The Travelers Companies,2013-04-26,302
+XOM,Exxon Mobil Corporation,2013-03-31,229
+KO,The Coca-Cola Company,2013-11-23,123
+MRK,Merck & Co. Inc.,2013-02-10,167
+MRK,Merck & Co. Inc.,2013-09-13,156
+GS,The Goldman Sachs Group,2013-11-11,63
+MCD,McDonald's Corp.,2013-09-13,513
+DD,E. I. du Pont de Nemours and Company,2013-09-12,80
+T,AT&T,2013-11-26,411
+CVX,Chevron Corporation,2013-03-16,315
+PG,The Procter & Gamble Company,2013-01-18,582
+MMM,3M Company,2013-04-02,782
+HD,The Home Depot,2013-05-17,518
+UNH,UnitedHealth Group Incorporated,2013-11-11,344
+NKE,Nike,2013-12-17,482
+VZ,Verizon Communications Inc.,2013-08-01,521
+HD,The Home Depot,2013-03-27,950
+KO,The Coca-Cola Company,2013-08-12,666
+VZ,Verizon Communications Inc.,2013-10-11,110
+MMM,3M Company,2013-05-08,960
+CVX,Chevron Corporation,2013-02-18,947
+CAT,Caterpillar Inc.,2013-04-11,279
+BA,The Boeing Company,2013-08-16,220
+T,AT&T,2013-12-15,575
+BA,The Boeing Company,2013-08-25,21
+JPM,JPMorgan Chase & Co.,2013-11-17,641
+MCD,McDonald's Corp.,2013-08-19,946
+V,Visa Inc.,2013-07-22,173
+INTC,Intel Corporation,2013-12-21,214
+CSCO,Cisco Systems,2013-12-19,622
+T,AT&T,2013-08-30,968
+WMT,Wal-Mart Stores Inc.,2013-11-25,696
+TRV,The Travelers Companies,2013-10-22,36
+JPM,JPMorgan Chase & Co.,2013-10-23,626
+JPM,JPMorgan Chase & Co.,2013-05-10,15
+CAT,Caterpillar Inc.,2013-05-16,352
+IBM,International Business Machines Corporation,2013-06-24,940
+HD,The Home Depot,2013-11-02,948
